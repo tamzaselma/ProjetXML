@@ -5,6 +5,7 @@ Contient les documents données pour le projet (le dossier RaWeb, les xsd conten
 ## __projet-raweb__ :
 Contient le projet en lui même.
 
-# Lancer le serveur rest
+# Lancer le serveur REST avec jetty
 - Se placer dans le dossier ProjetXML/projet-raweb
 - Lancé la commande __mvn jetty:run__
+
